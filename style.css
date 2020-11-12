@@ -1,0 +1,16 @@
+img{
+  max-width:300px;
+}
+.odd{
+  float: right;
+  margin: 15px
+}
+.even{
+  float: left;
+  margin: 15px
+}
+class{
+  text-align: justify;
+}
+
+
